@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jeux vidéos</string>
+    <string name="ErrorWrongLogin">Mauvais login !</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detailsActivity_availableOn">Disponible sur :</string>
+    <string name="detailsActivity_availableOn_noInfo">Disponible sur : pas d\'information</string>
+    <string name="detailsActivity_availableOn_x_platforms">Disponible sur : %d plateforme(s) différente(s)</string>
+</resources>
